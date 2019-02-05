@@ -1,0 +1,32 @@
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: #e24000;
+}
+
+table{
+
+    margin:5em auto;
+}
+
+
+td{
+    text-align: center;
+    font-size: 60px;
+    width: 120px;
+    height: 120px;
+}
+
+
+
+.vertical{
+    border-left:3px solid black;
+    border-right: 3px solid black;
+}
+
+
+.horizontal{
+    border-top:3px solid black;
+    border-bottom: 3px solid black;
+
+}
