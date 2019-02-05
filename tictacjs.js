@@ -57,6 +57,9 @@ function winnerCheck() {
 }
 
 
+
+// check for tie function
+
 function gameTie() {
     console.log("gametie");
     var alertTie = true;
